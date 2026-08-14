@@ -38,7 +38,7 @@ GCP can be used for data analytics, artificial intelligence and machine learning
 
 ## Screenshot Evidence
 
-![GCP Screenshot](Laboratory-03-Multi-Cloud-Explorer/gcp-homepage.png.png)
+![GCP Screenshot](gcp-homepage.png)
 
 ## Sources
 
